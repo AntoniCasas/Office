@@ -1,0 +1,3 @@
+--to copy from github repository to local computer
+git clone https://github.com/AntoniCasas/repo_name
+
